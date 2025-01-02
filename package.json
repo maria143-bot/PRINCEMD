@@ -1,6 +1,7 @@
 {
 "name": "PRINCEMD",
 "version": "2.9.7", 
+"homepage": ".",
 "description": "super advance prince md whatsapp user bot",
 "main": "index.js",
 "type": "module",
